@@ -1,0 +1,46 @@
+@import "bootstrap";
+
+body {
+  padding-top: 60px;
+}
+
+.footer {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: #323232;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: auto auto;
+  color: #E4E4E4;
+  font-size: 1em;
+  padding-bottom: 1.618em;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 1.618em;
+  margin: 0px;
+}
+
+.site-footer-links li {
+  display: inline-block;
+  line-height: 16px;
+}
+
+.site-footer {
+  position: relative;
+/*  margin-top: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;*/
+  line-height: 1.5;
+  color: #777;
+  margin-top: 15px;
+/*  border-top: 1px solid #eee;*/
+}
+
+.site-footer .nav > li > a {
+float: none;
+padding: 10px 10px 10px;
+color: #777777;
+text-decoration: none;
+}
